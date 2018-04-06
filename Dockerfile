@@ -1,5 +1,5 @@
 FROM python:3.6
-MAINTAINER Josip Janzic <josip.janzic@gmail.com>
+MAINTAINER Josip Janzic <josip.janzic@gmail.com> Bijan Vakili <bijan@seebgroup.com>
 
 RUN apt-get update && \
         apt-get install -y \
